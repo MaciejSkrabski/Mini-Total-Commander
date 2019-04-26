@@ -9,3 +9,13 @@ C:\Users\malbik\source\repos\miniTC2\lab_2_B\obj\Debug\miniTC.csproj.GenerateRes
 C:\Users\malbik\source\repos\miniTC2\lab_2_B\obj\Debug\miniTC.csproj.CoreCompileInputs.cache
 C:\Users\malbik\source\repos\miniTC2\lab_2_B\obj\Debug\lab_2_B.exe
 C:\Users\malbik\source\repos\miniTC2\lab_2_B\obj\Debug\lab_2_B.pdb
+C:\Users\maciej.skrabski\Source\Repos\MaciejSkrabski\Mini-Total-Commander\lab_2_B\bin\Debug\lab_2_B.exe.config
+C:\Users\maciej.skrabski\Source\Repos\MaciejSkrabski\Mini-Total-Commander\lab_2_B\obj\Debug\lab_2_B.exe
+C:\Users\maciej.skrabski\Source\Repos\MaciejSkrabski\Mini-Total-Commander\lab_2_B\obj\Debug\lab_2_B.pdb
+C:\Users\maciej.skrabski\Source\Repos\MaciejSkrabski\Mini-Total-Commander\lab_2_B\bin\Debug\lab_2_B.exe
+C:\Users\maciej.skrabski\Source\Repos\MaciejSkrabski\Mini-Total-Commander\lab_2_B\bin\Debug\lab_2_B.pdb
+C:\Users\maciej.skrabski\Source\Repos\MaciejSkrabski\Mini-Total-Commander\lab_2_B\obj\Debug\miniTC.csprojResolveAssemblyReference.cache
+C:\Users\maciej.skrabski\Source\Repos\MaciejSkrabski\Mini-Total-Commander\lab_2_B\obj\Debug\miniTCApp.Form1.resources
+C:\Users\maciej.skrabski\Source\Repos\MaciejSkrabski\Mini-Total-Commander\lab_2_B\obj\Debug\miniTCApp.MiniTCPanel.resources
+C:\Users\maciej.skrabski\Source\Repos\MaciejSkrabski\Mini-Total-Commander\lab_2_B\obj\Debug\lab_2_B.Properties.Resources.resources
+C:\Users\maciej.skrabski\Source\Repos\MaciejSkrabski\Mini-Total-Commander\lab_2_B\obj\Debug\miniTC.csproj.GenerateResource.Cache
